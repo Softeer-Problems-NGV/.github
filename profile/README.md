@@ -33,12 +33,16 @@ https://softeer.ai/app
 |:----------:|:-----:|:--------:|:----------------------------------:|:---------------------------:|:-------------------------------------------------------------------------------:|
 | SQL-NGV-1 | 2309 | HARD      |   전담 에이전트 배정  |     -     |[SQL-NGV-1](https://github.com/Softeer-Problems-NGV/SQL-NGV-1)|
 | SQL-NGV-2 | 2309  |  EASY    |   모자 디자인하기               |     -     |[SQL-NGV-2](https://github.com/Softeer-Problems-NGV/SQL-NGV-2)|
-| SQL-NGV-3 |  2309 |  MEDIUM  |   교차로의 교통량                    |     NGV 검수 완료     |[SQL-NGV-3](https://github.com/Softeer-Problems-NGV/SQL-NGV-3)|
+| SQL-NGV-3 |  2309 |  HARD  |   교차로의 교통량                    |     NGV 검수 완료     |[SQL-NGV-3](https://github.com/Softeer-Problems-NGV/SQL-NGV-3)|
 | SQL-NGV-4 | 2309  |  MEDIUM  |   쩌니의 세계에서 가장 비싼 자동차 찾기                   |    NGV 검수 완료     |[SQL-NGV-4](https://github.com/Softeer-Problems-NGV/SQL-NGV-4)|
-| SQL-NGV-5 | 2309  |  MEDIUM  |  쿠폰 유효기간 확인하기                 |     NGV 검수 완료     |[SQL-NGV-5](https://github.com/Softeer-Problems-NGV/SQL-NGV-5)|
-| SQL-NGV-6 | 2312  |  MEDIUM  |  전자식 커플링 테스트하기                         |     NGV 검수 완료     |[SQL-NGV-6](https://github.com/Softeer-Problems-NGV/SQL-NGV-6)|
-| SQL-NGV-7 | 2312  |  HARD    |  차량 유지비 조회하기                     |     NGV 검수 완료     |[SQL-NGV-7](https://github.com/Softeer-Problems-NGV/SQL-NGV-7)|
-| SQL-NGV-8 | 2312  |  HARD    |   자격증 달력 만들기                       |   NGV 검수 완료     |[SQL-NGV-8](https://github.com/Softeer-Problems-NGV/SQL-NGV-8)|
-| SQL-NGV-9 | 2401  |  HARD    |   유료 주차량 요금 구하기                       |    소프티어 업로드 완료     |[SQL-NGV-9](https://github.com/Softeer-Problems-NGV/SQL-NGV-9)|
-| SQL-NGV-10 | 2401  |  HARD    |  동물들의 사료 구매하기                        |    소프티어 업로드 완료     |[SQL-NGV-10](https://github.com/Softeer-Problems-NGV/SQL-NGV-10)|
-| SQL-NGV-11 | 2402  |  HARD    |  PRG 던전 하루 파밍량 구하기                        |    소프티어 업로드 완료     |[SQL-NGV-11](https://github.com/Softeer-Problems-NGV/SQL-NGV-11)|
+| SQL-NGV-5 | 2309  |  EASY  |  쿠폰 유효기간 확인하기                 |     NGV 검수 완료     |[SQL-NGV-5](https://github.com/Softeer-Problems-NGV/SQL-NGV-5)|
+| SQL-NGV-6 | 2312  |  EASY  |  전자식 커플링 테스트하기                         |     NGV 검수 완료     |[SQL-NGV-6](https://github.com/Softeer-Problems-NGV/SQL-NGV-6)|
+| SQL-NGV-7 | 2312  |  MEDIUM    |  차량 유지비 조회하기                     |     NGV 검수 완료     |[SQL-NGV-7](https://github.com/Softeer-Problems-NGV/SQL-NGV-7)|
+| SQL-NGV-8 | 2312  |  EASY    |   자격증 달력 만들기                       |   NGV 검수 완료     |[SQL-NGV-8](https://github.com/Softeer-Problems-NGV/SQL-NGV-8)|
+| SQL-NGV-9 | 2401  |  MEDIUM    |   유료 주차량 요금 구하기                       |    소프티어 업로드 완료     |[SQL-NGV-9](https://github.com/Softeer-Problems-NGV/SQL-NGV-9)|
+| SQL-NGV-10 | 2401  |  EASY    |  동물들의 사료 구매하기                        |    소프티어 업로드 완료     |[SQL-NGV-10](https://github.com/Softeer-Problems-NGV/SQL-NGV-10)|
+| SQL-NGV-11 | 2402  |  EASY    |  PRG 던전 하루 파밍량 구하기                        |    소프티어 업로드 완료     |[SQL-NGV-11](https://github.com/Softeer-Problems-NGV/SQL-NGV-11)|
+| SQL-NGV-12 | 2402  |  EASY    |  거래 게시판 만들기                        |    소프티어 업로드 완료     |[SQL-NGV-12](https://github.com/Softeer-Problems-NGV/SQL-NGV-12)|
+| SQL-NGV-13 | 2402  |  MEDIUM    |  인구 감소율 조사                        |    소프티어 업로드 완료     |[SQL-NGV-13](https://github.com/Softeer-Problems-NGV/SQL-NGV-13)|
+| SQL-NGV-14 | 2402  |  MEDIUM    | 길드 파워                        |    소프티어 업로드 완료     |[SQL-NGV-14](https://github.com/Softeer-Problems-NGV/SQL-NGV-14)|
+| SQL-NGV-15 | 2402  |  MEDIUM    |  플레이어의 퀘스트 진행율 조회                        |    소프티어 업로드 완료     |[SQL-NGV-15](https://github.com/Softeer-Problems-NGV/SQL-NGV-15)|
