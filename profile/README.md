@@ -31,11 +31,14 @@ https://softeer.ai/app
 문제 상태 : 깃허브 업로드 완료 -> 소프티어 업로드 완료 -> 교차검수 완료 -> 교차검수 수정 완료 -> NGV 검수 완료
 | 문제ID  | 제조년월 | 난이도 |문제 제목 | 문제 상태 | URL | 
 |:----------:|:-----:|:--------:|:----------------------------------:|:---------------------------:|:-------------------------------------------------------------------------------:|
-| SQL-KHJ-1 | 2401 |  MEDIUM  |   전자 상거래 사용자의 환불률 구하기  |     교차검수 수정 완료     |[SQL-KHJ-1](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-1)|
-| SQL-KHJ-2 | 2401  |  MEDIUM  |   최근 판매 현황 분석                |     교차검수 수정 완료     |[SQL-KHJ-2](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-2)|
-| SQL-KHJ-3 | 2401  |  MEDIUM  |   고속도로 교통 혼잡도 계산하기      |     교차검수 수정 완료     |[SQL-KHJ-3](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-3)|
-| SQL-KHJ-4 | 2401  |  MEDIUM  |   인기 모델 구하기                  |    교차 검수 완료     |[SQL-KHJ-4](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-4)|
-| SQL-KHJ-5 | 2401  |  MEDIUM  |   초기 활성 사용자                  |     교차검수 수정 완료     |[SQL-KHJ-5](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-5)|
-| SQL-KHJ-6 | 2401  |  MEDIUM  |   당일 배송                        |     교차검수 수정 완료     |[SQL-KHJ-6](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-6)|
-| SQL-KHJ-7 | 2401  |  HARD    |   차량 평가 분석                    |     교차검수 수정 완료     |[SQL-KHJ-7](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-7)|
-| SQL-KHJ-8 | 2401  |  HARD    |   렌터카                            |    교차검수 수정 완료     |[SQL-KHJ-8](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-8)|
+| SQL-NGV-1 |  | HARD      |   전담 에이전트 배정  |     -     |[SQL-NGV-1](https://github.com/Softeer-Problems-NGV/SQL-NGV-1)|
+| SQL-NGV-2 |   |  EASY    |   모자 디자인하기               |     -     |[SQL-NGV-2](https://github.com/Softeer-Problems-NGV/SQL-NGV-2)|
+| SQL-NGV-3 |   |  MEDIUM  |   교차로의 교통량                    |     NGV 검수 완료     |[SQL-NGV-3](https://github.com/Softeer-Problems-NGV/SQL-NGV-3)|
+| SQL-NGV-4 |   |  MEDIUM  |   쩌니의 세계에서 가장 비싼 자동차 찾기                   |    NGV 검수 완료     |[SQL-NGV-4](https://github.com/Softeer-Problems-NGV/SQL-NGV-4)|
+| SQL-NGV-5 |   |  MEDIUM  |  쿠폰 유효기간 확인하기                 |     NGV 검수 완료     |[SQL-NGV-5](https://github.com/Softeer-Problems-NGV/SQL-NGV-5)|
+| SQL-NGV-6 |   |  MEDIUM  |  전자식 커플링 테스트하기                         |     NGV 검수 완료     |[SQL-NGV-6](https://github.com/Softeer-Problems-NGV/SQL-NGV-6)|
+| SQL-NGV-7 |   |  HARD    |  차량 유지비 조회하기                     |     NGV 검수 완료     |[SQL-NGV-7](https://github.com/Softeer-Problems-NGV/SQL-NGV-7)|
+| SQL-NGV-8 |   |  HARD    |   자격증 달력 만들기                       |   NGV 검수 완료     |[SQL-NGV-8](https://github.com/Softeer-Problems-NGV/SQL-NGV-8)|
+| SQL-NGV-9 |   |  HARD    |   유료 주차량 요금 구하기                       |    소프티어 업로드 완료     |[SQL-NGV-9](https://github.com/Softeer-Problems-NGV/SQL-NGV-9)|
+| SQL-NGV-10 |   |  HARD    |  동물들의 사료 구매하기                        |    소프티어 업로드 완료     |[SQL-NGV-10](https://github.com/Softeer-Problems-NGV/SQL-NGV-10)|
+| SQL-NGV-11 |   |  HARD    |  PRG 던전 하루 파밍량 구하기                        |    소프티어 업로드 완료     |[SQL-NGV-11](https://github.com/Softeer-Problems-NGV/SQL-NGV-11)|
