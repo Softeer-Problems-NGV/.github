@@ -32,7 +32,7 @@ https://softeer.ai/app
 | 문제ID  | 제조년월 | 난이도 |문제 제목 | 문제 상태 | URL | 
 |:----------:|:-----:|:--------:|:----------------------------------:|:---------------------------:|:-------------------------------------------------------------------------------:|
 | SQL-NGV-1 | 2309 | HARD      |   전담 에이전트 배정  |     소프티어 업로드 완료     |[SQL-NGV-1](https://github.com/Softeer-Problems-NGV/SQL-NGV-1)|
-| SQL-NGV-2 | 2309  |  EASY    |   모자 디자인하기               |     소프티어 업로드 완료     |[SQL-NGV-2](https://github.com/Softeer-Problems-NGV/SQL-NGV-2)|
+| SQL-NGV-2 | 2309  |  HARD    |   인기 상품 찾기               |     소프티어 업로드 완료     |[SQL-NGV-2](https://github.com/Softeer-Problems-NGV/SQL-NGV-2)|
 | SQL-NGV-3 |  2309 |  HARD  |   교차로의 교통량                    |     NGV 검수 완료     |[SQL-NGV-3](https://github.com/Softeer-Problems-NGV/SQL-NGV-3)|
 | SQL-NGV-4 | 2309  |  MEDIUM  |   쩌니의 세계에서 가장 비싼 자동차 찾기                   |    NGV 검수 완료     |[SQL-NGV-4](https://github.com/Softeer-Problems-NGV/SQL-NGV-4)|
 | SQL-NGV-5 | 2309  |  EASY  |  쿠폰 유효기간 확인하기                 |     NGV 검수 완료     |[SQL-NGV-5](https://github.com/Softeer-Problems-NGV/SQL-NGV-5)|
